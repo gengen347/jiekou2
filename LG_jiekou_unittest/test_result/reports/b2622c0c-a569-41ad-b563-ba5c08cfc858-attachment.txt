@@ -1,0 +1,2 @@
+实际结果：{'code': 0, 'msg': 'OK', 'data': {'id': 314280, 'leave_amount': 0.0, 'mobile_phone': '13586834386', 'reg_name': '借款人', 'reg_time': '2021-12-04 13:22:06.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2021-12-04 13:57:49', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjMxNDI4MCwiZXhwIjoxNjM4NTk3NDY5fQ.aNneiOm9dP1CGPgK1m71Z7vbj-rIQBPail9uzEiMD115iRDmq4Vy1-uUG3Su2g6WZctSF2lNiNYDwdauVejf0A'}}, 'copyright': 'Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved'}
+预期结果：{'code': 0, 'msg': 'OK'}

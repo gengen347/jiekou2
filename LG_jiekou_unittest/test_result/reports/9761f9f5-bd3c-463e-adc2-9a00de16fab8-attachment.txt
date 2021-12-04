@@ -1,0 +1,10 @@
+2021-12-04 13:46:11,858 - [test_register.py-->line:40] - ERROR: 注册：注册名11位失败！
+2021-12-04 13:46:11,858 - [test_register.py-->line:41] - ERROR: 0 != 2
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\docjer实战接口自动化\LG_jiekou_unittest\testcase\test_register.py", line 33, in test_register
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != 2

@@ -1,0 +1,1 @@
+INFO     ligen:test_invest.py:47 invest：标id为空【通过】

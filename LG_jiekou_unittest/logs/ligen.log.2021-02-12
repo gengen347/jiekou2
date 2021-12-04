@@ -1,0 +1,1480 @@
+2021-02-12 11:36:02,181 - [test_audit.py-->line:51] - INFO: recharge：id错误(不是当前用的id)【通过】
+2021-02-12 11:36:02,448 - [test_audit.py-->line:51] - INFO: recharge：不输入id【通过】
+2021-02-12 11:38:35,643 - [test_audit.py-->line:51] - INFO: audit：审核通过【通过】
+2021-02-12 11:38:35,915 - [test_audit.py-->line:51] - INFO: audit：审核不通过【通过】
+2021-02-12 11:38:36,363 - [test_audit.py-->line:51] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 11:38:36,631 - [test_audit.py-->line:51] - INFO: audit：项目id为空【通过】
+2021-02-12 11:38:36,896 - [test_audit.py-->line:51] - INFO: audit：项目id不存在【通过】
+2021-02-12 11:40:56,693 - [test_audit.py-->line:51] - INFO: audit：审核通过【通过】
+2021-02-12 11:40:56,973 - [test_audit.py-->line:51] - INFO: audit：审核不通过【通过】
+2021-02-12 11:40:57,438 - [test_audit.py-->line:51] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 11:40:57,700 - [test_audit.py-->line:51] - INFO: audit：项目id为空【通过】
+2021-02-12 11:40:57,966 - [test_audit.py-->line:51] - INFO: audit：项目id不存在【通过】
+2021-02-12 11:43:08,306 - [test_audit.py-->line:51] - INFO: audit：审核通过【通过】
+2021-02-12 11:43:08,763 - [test_audit.py-->line:51] - INFO: audit：审核不通过【通过】
+2021-02-12 11:43:09,028 - [test_audit.py-->line:51] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 11:43:09,292 - [test_audit.py-->line:51] - INFO: audit：项目id为空【通过】
+2021-02-12 11:43:09,560 - [test_audit.py-->line:51] - INFO: audit：项目id不存在【通过】
+2021-02-12 11:45:55,610 - [test_audit.py-->line:51] - INFO: audit：审核通过【通过】
+2021-02-12 11:45:56,059 - [test_audit.py-->line:51] - INFO: audit：审核不通过【通过】
+2021-02-12 11:45:56,329 - [test_audit.py-->line:51] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 11:45:56,597 - [test_audit.py-->line:51] - INFO: audit：项目id为空【通过】
+2021-02-12 11:45:56,866 - [test_audit.py-->line:51] - INFO: audit：项目id不存在【通过】
+2021-02-12 11:59:33,721 - [test_audit.py-->line:52] - INFO: audit：审核通过【通过】
+2021-02-12 11:59:33,987 - [test_audit.py-->line:52] - INFO: audit：项目不待审核状态【通过】
+2021-02-12 11:59:34,258 - [test_audit.py-->line:52] - INFO: audit：审核不通过【通过】
+2021-02-12 11:59:34,522 - [test_audit.py-->line:52] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 11:59:34,791 - [test_audit.py-->line:52] - INFO: audit：项目id为空【通过】
+2021-02-12 11:59:35,064 - [test_audit.py-->line:52] - INFO: audit：项目id不存在【通过】
+2021-02-12 12:18:53,557 - [test_audit.py-->line:55] - INFO: audit：审核通过【通过】
+2021-02-12 12:18:53,833 - [test_audit.py-->line:55] - INFO: audit：项目不待审核状态【通过】
+2021-02-12 12:18:54,117 - [test_audit.py-->line:55] - INFO: audit：审核不通过【通过】
+2021-02-12 12:18:54,393 - [test_audit.py-->line:55] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 12:18:54,663 - [test_audit.py-->line:55] - INFO: audit：项目id为空【通过】
+2021-02-12 12:18:54,931 - [test_audit.py-->line:55] - INFO: audit：项目id不存在【通过】
+2021-02-12 12:20:49,576 - [test_audit.py-->line:55] - INFO: audit：审核通过【通过】
+2021-02-12 12:20:49,842 - [test_audit.py-->line:55] - INFO: audit：项目不待审核状态【通过】
+2021-02-12 12:20:50,111 - [test_audit.py-->line:55] - INFO: audit：审核不通过【通过】
+2021-02-12 12:20:50,374 - [test_audit.py-->line:55] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 12:20:50,642 - [test_audit.py-->line:55] - INFO: audit：项目id为空【通过】
+2021-02-12 12:20:50,905 - [test_audit.py-->line:55] - INFO: audit：项目id不存在【通过】
+2021-02-12 12:22:28,879 - [test_audit.py-->line:55] - INFO: audit：审核通过【通过】
+2021-02-12 12:22:29,337 - [test_audit.py-->line:55] - INFO: audit：审核不通过【通过】
+2021-02-12 12:22:29,605 - [test_audit.py-->line:55] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 12:22:29,872 - [test_audit.py-->line:55] - INFO: audit：项目id为空【通过】
+2021-02-12 12:22:30,147 - [test_audit.py-->line:55] - INFO: audit：项目id不存在【通过】
+2021-02-12 12:24:07,472 - [test_audit.py-->line:55] - INFO: audit：审核通过【通过】
+2021-02-12 12:24:07,747 - [test_audit.py-->line:55] - INFO: audit：项目不待审核状态【通过】
+2021-02-12 12:24:08,019 - [test_audit.py-->line:55] - INFO: audit：审核不通过【通过】
+2021-02-12 12:24:08,288 - [test_audit.py-->line:55] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 12:24:08,550 - [test_audit.py-->line:55] - INFO: audit：项目id为空【通过】
+2021-02-12 12:24:08,818 - [test_audit.py-->line:55] - INFO: audit：项目id不存在【通过】
+2021-02-12 12:36:44,523 - [test_audit.py-->line:53] - INFO: audit：审核通过【通过】
+2021-02-12 12:36:44,796 - [test_audit.py-->line:53] - INFO: audit：项目不待审核状态【通过】
+2021-02-12 12:36:45,072 - [test_audit.py-->line:53] - INFO: audit：审核不通过【通过】
+2021-02-12 12:36:45,361 - [test_audit.py-->line:53] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 12:36:45,624 - [test_audit.py-->line:53] - INFO: audit：项目id为空【通过】
+2021-02-12 12:36:45,903 - [test_audit.py-->line:53] - INFO: audit：项目id不存在【通过】
+2021-02-12 12:39:39,295 - [test_audit.py-->line:52] - ERROR: audit：审核通过【失败】*****
+2021-02-12 12:39:39,295 - [test_audit.py-->line:53] - ERROR: 'leave_amount'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_audit.py", line 47, in test_audit
+    self.assertTrue(db.find_all(sql)[0]['leave_amount'])
+KeyError: 'leave_amount'
+2021-02-12 12:39:39,861 - [test_audit.py-->line:52] - ERROR: audit：审核不通过【失败】*****
+2021-02-12 12:39:39,861 - [test_audit.py-->line:53] - ERROR: 'leave_amount'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_audit.py", line 47, in test_audit
+    self.assertTrue(db.find_all(sql)[0]['leave_amount'])
+KeyError: 'leave_amount'
+2021-02-12 12:39:40,139 - [test_audit.py-->line:56] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 12:39:40,409 - [test_audit.py-->line:56] - INFO: audit：项目id为空【通过】
+2021-02-12 12:39:40,674 - [test_audit.py-->line:56] - INFO: audit：项目id不存在【通过】
+2021-02-12 12:40:28,598 - [test_audit.py-->line:56] - INFO: audit：审核通过【通过】
+2021-02-12 12:40:28,869 - [test_audit.py-->line:56] - INFO: audit：项目不待审核状态【通过】
+2021-02-12 12:40:29,317 - [test_audit.py-->line:56] - INFO: audit：审核不通过【通过】
+2021-02-12 12:40:29,588 - [test_audit.py-->line:56] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 12:40:29,869 - [test_audit.py-->line:56] - INFO: audit：项目id为空【通过】
+2021-02-12 12:40:30,136 - [test_audit.py-->line:56] - INFO: audit：项目id不存在【通过】
+2021-02-12 12:41:21,456 - [test_audit.py-->line:55] - INFO: audit：审核通过【通过】
+2021-02-12 12:41:21,737 - [test_audit.py-->line:55] - INFO: audit：项目不待审核状态【通过】
+2021-02-12 12:41:22,091 - [test_audit.py-->line:55] - INFO: audit：审核不通过【通过】
+2021-02-12 12:41:22,370 - [test_audit.py-->line:55] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 12:41:22,634 - [test_audit.py-->line:55] - INFO: audit：项目id为空【通过】
+2021-02-12 12:41:22,910 - [test_audit.py-->line:55] - INFO: audit：项目id不存在【通过】
+2021-02-12 12:41:38,624 - [test_audit.py-->line:51] - ERROR: audit：审核通过【失败】*****
+2021-02-12 12:41:38,624 - [test_audit.py-->line:52] - ERROR: 0 is not true
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_audit.py", line 47, in test_audit
+    self.assertTrue(db.find_all(sql)[0]['count(1)']-1)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 705, in assertTrue
+    raise self.failureException(msg)
+AssertionError: 0 is not true
+2021-02-12 12:41:39,180 - [test_audit.py-->line:51] - ERROR: audit：审核不通过【失败】*****
+2021-02-12 12:41:39,180 - [test_audit.py-->line:52] - ERROR: 0 is not true
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_audit.py", line 47, in test_audit
+    self.assertTrue(db.find_all(sql)[0]['count(1)']-1)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 705, in assertTrue
+    raise self.failureException(msg)
+AssertionError: 0 is not true
+2021-02-12 12:41:39,446 - [test_audit.py-->line:55] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 12:41:39,713 - [test_audit.py-->line:55] - INFO: audit：项目id为空【通过】
+2021-02-12 12:41:39,991 - [test_audit.py-->line:55] - INFO: audit：项目id不存在【通过】
+2021-02-12 12:41:52,251 - [test_audit.py-->line:55] - INFO: audit：审核通过【通过】
+2021-02-12 12:41:52,523 - [test_audit.py-->line:55] - INFO: audit：项目不待审核状态【通过】
+2021-02-12 12:41:52,881 - [test_audit.py-->line:55] - INFO: audit：审核不通过【通过】
+2021-02-12 12:41:53,154 - [test_audit.py-->line:55] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 12:41:53,430 - [test_audit.py-->line:55] - INFO: audit：项目id为空【通过】
+2021-02-12 12:41:53,703 - [test_audit.py-->line:55] - INFO: audit：项目id不存在【通过】
+2021-02-12 12:48:39,617 - [test_audit.py-->line:52] - ERROR: audit：审核通过【失败】*****
+2021-02-12 12:48:39,618 - [test_audit.py-->line:53] - ERROR: 2 != False
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_audit.py", line 47, in test_audit
+    self.assertEqual(db.find_all(sql)[0]['status'],jsonpath(res.json(),"$..status"))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 2 != False
+2021-02-12 12:48:40,162 - [test_audit.py-->line:52] - ERROR: audit：审核不通过【失败】*****
+2021-02-12 12:48:40,162 - [test_audit.py-->line:53] - ERROR: 5 != False
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_audit.py", line 47, in test_audit
+    self.assertEqual(db.find_all(sql)[0]['status'],jsonpath(res.json(),"$..status"))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 5 != False
+2021-02-12 12:48:40,436 - [test_audit.py-->line:56] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 12:48:40,704 - [test_audit.py-->line:56] - INFO: audit：项目id为空【通过】
+2021-02-12 12:48:40,971 - [test_audit.py-->line:56] - INFO: audit：项目id不存在【通过】
+2021-02-12 12:51:24,928 - [test_audit.py-->line:52] - ERROR: audit：审核通过【失败】*****
+2021-02-12 12:51:24,928 - [test_audit.py-->line:53] - ERROR: 'status' != False
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_audit.py", line 47, in test_audit
+    self.assertEqual(db.find_all(sql)[0]['status'],jsonpath(res.json(),"$..status"))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 'status' != False
+2021-02-12 12:51:25,479 - [test_audit.py-->line:52] - ERROR: audit：审核不通过【失败】*****
+2021-02-12 12:51:25,480 - [test_audit.py-->line:53] - ERROR: 'status' != False
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_audit.py", line 47, in test_audit
+    self.assertEqual(db.find_all(sql)[0]['status'],jsonpath(res.json(),"$..status"))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 'status' != False
+2021-02-12 12:51:25,764 - [test_audit.py-->line:56] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 12:51:26,040 - [test_audit.py-->line:56] - INFO: audit：项目id为空【通过】
+2021-02-12 12:51:26,313 - [test_audit.py-->line:56] - INFO: audit：项目id不存在【通过】
+2021-02-12 12:54:41,614 - [test_audit.py-->line:54] - ERROR: audit：审核通过【失败】*****
+2021-02-12 12:54:41,615 - [test_audit.py-->line:55] - ERROR: 'status' != False
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_audit.py", line 49, in test_audit
+    self.assertEqual(db.find_all(sql)[0]['status'],jsonpath(res.json(),"$..status"))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 'status' != False
+2021-02-12 12:54:42,274 - [test_audit.py-->line:54] - ERROR: audit：审核不通过【失败】*****
+2021-02-12 12:54:42,274 - [test_audit.py-->line:55] - ERROR: 'status' != False
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_audit.py", line 49, in test_audit
+    self.assertEqual(db.find_all(sql)[0]['status'],jsonpath(res.json(),"$..status"))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 'status' != False
+2021-02-12 12:54:42,540 - [test_audit.py-->line:58] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 12:54:42,814 - [test_audit.py-->line:58] - INFO: audit：项目id为空【通过】
+2021-02-12 12:54:43,102 - [test_audit.py-->line:58] - INFO: audit：项目id不存在【通过】
+2021-02-12 12:56:13,979 - [test_audit.py-->line:54] - ERROR: audit：审核通过【失败】*****
+2021-02-12 12:56:13,980 - [test_audit.py-->line:55] - ERROR: 'status' != False
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_audit.py", line 49, in test_audit
+    self.assertEqual(db.find_all(sql)[0]['status'],jsonpath(res.json(),"$..status"))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 'status' != False
+2021-02-12 12:56:14,645 - [test_audit.py-->line:54] - ERROR: audit：审核不通过【失败】*****
+2021-02-12 12:56:14,645 - [test_audit.py-->line:55] - ERROR: 'status' != False
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_audit.py", line 49, in test_audit
+    self.assertEqual(db.find_all(sql)[0]['status'],jsonpath(res.json(),"$..status"))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 'status' != False
+2021-02-12 12:56:14,924 - [test_audit.py-->line:58] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 12:56:15,201 - [test_audit.py-->line:58] - INFO: audit：项目id为空【通过】
+2021-02-12 12:56:15,487 - [test_audit.py-->line:58] - INFO: audit：项目id不存在【通过】
+2021-02-12 12:59:24,671 - [test_audit.py-->line:54] - ERROR: audit：审核通过【失败】*****
+2021-02-12 12:59:24,672 - [test_audit.py-->line:55] - ERROR: 2 != False
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_audit.py", line 49, in test_audit
+    self.assertEqual(db.find_all(sql)[0]['status'],jsonpath(res.json(),"$..status"))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 2 != False
+2021-02-12 12:59:25,345 - [test_audit.py-->line:54] - ERROR: audit：审核不通过【失败】*****
+2021-02-12 12:59:25,345 - [test_audit.py-->line:55] - ERROR: 5 != False
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_audit.py", line 49, in test_audit
+    self.assertEqual(db.find_all(sql)[0]['status'],jsonpath(res.json(),"$..status"))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 5 != False
+2021-02-12 12:59:25,628 - [test_audit.py-->line:58] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 12:59:25,911 - [test_audit.py-->line:58] - INFO: audit：项目id为空【通过】
+2021-02-12 12:59:26,195 - [test_audit.py-->line:58] - INFO: audit：项目id不存在【通过】
+2021-02-12 13:01:59,538 - [test_audit.py-->line:55] - ERROR: audit：审核通过【失败】*****
+2021-02-12 13:01:59,539 - [test_audit.py-->line:56] - ERROR: 2 != False
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_audit.py", line 50, in test_audit
+    self.assertEqual(db.find_all(sql)[0]['status'],jsonpath(res.json(),"$..status"))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 2 != False
+2021-02-12 13:02:00,244 - [test_audit.py-->line:55] - ERROR: audit：审核不通过【失败】*****
+2021-02-12 13:02:00,244 - [test_audit.py-->line:56] - ERROR: 5 != False
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_audit.py", line 50, in test_audit
+    self.assertEqual(db.find_all(sql)[0]['status'],jsonpath(res.json(),"$..status"))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 5 != False
+2021-02-12 13:02:00,525 - [test_audit.py-->line:59] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 13:02:00,798 - [test_audit.py-->line:59] - INFO: audit：项目id为空【通过】
+2021-02-12 13:02:01,071 - [test_audit.py-->line:59] - INFO: audit：项目id不存在【通过】
+2021-02-12 13:03:29,327 - [test_audit.py-->line:55] - ERROR: audit：审核通过【失败】*****
+2021-02-12 13:03:29,328 - [test_audit.py-->line:56] - ERROR: 'bool' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_audit.py", line 48, in test_audit
+    item_status2=jsonpath(res.json(), "$..status")[0]
+TypeError: 'bool' object is not subscriptable
+2021-02-12 13:03:29,913 - [test_audit.py-->line:55] - ERROR: audit：审核不通过【失败】*****
+2021-02-12 13:03:29,914 - [test_audit.py-->line:56] - ERROR: 'bool' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_audit.py", line 48, in test_audit
+    item_status2=jsonpath(res.json(), "$..status")[0]
+TypeError: 'bool' object is not subscriptable
+2021-02-12 13:03:30,203 - [test_audit.py-->line:59] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 13:03:30,489 - [test_audit.py-->line:59] - INFO: audit：项目id为空【通过】
+2021-02-12 13:03:30,769 - [test_audit.py-->line:59] - INFO: audit：项目id不存在【通过】
+2021-02-12 13:08:58,572 - [test_audit.py-->line:56] - INFO: audit：审核通过【通过】
+2021-02-12 13:08:58,859 - [test_audit.py-->line:56] - INFO: audit：项目不待审核状态【通过】
+2021-02-12 13:08:59,317 - [test_audit.py-->line:56] - INFO: audit：审核不通过【通过】
+2021-02-12 13:08:59,609 - [test_audit.py-->line:56] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 13:08:59,889 - [test_audit.py-->line:56] - INFO: audit：项目id为空【通过】
+2021-02-12 13:09:00,167 - [test_audit.py-->line:56] - INFO: audit：项目id不存在【通过】
+2021-02-12 17:06:26,728 - [test_invest.py-->line:47] - INFO: invest：投资人id为空【通过】
+2021-02-12 17:10:03,841 - [test_invest.py-->line:47] - INFO: invest：投资人id为空【通过】
+2021-02-12 17:10:03,937 - [test_invest.py-->line:43] - ERROR: invest：标id为空【失败】*****
+2021-02-12 17:10:03,938 - [test_invest.py-->line:44] - ERROR: '会员id为空' != '项目id为空'
+- 会员id为空
++ 项目id为空
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_invest.py", line 41, in test_recharge
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '会员id为空' != '项目id为空'
+- 会员id为空
++ 项目id为空
+
+2021-02-12 17:12:40,573 - [test_invest.py-->line:47] - INFO: invest：投资人id为空【通过】
+2021-02-12 17:12:40,666 - [test_invest.py-->line:43] - ERROR: invest：标id为空【失败】*****
+2021-02-12 17:12:40,666 - [test_invest.py-->line:44] - ERROR: '会员id为空' != '项目id为空'
+- 会员id为空
++ 项目id为空
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_invest.py", line 41, in test_recharge
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '会员id为空' != '项目id为空'
+- 会员id为空
++ 项目id为空
+
+2021-02-12 17:14:44,809 - [test_invest.py-->line:47] - INFO: invest：投资人id为空【通过】
+2021-02-12 17:14:44,898 - [test_invest.py-->line:43] - ERROR: invest：标id为空【失败】*****
+2021-02-12 17:14:44,898 - [test_invest.py-->line:44] - ERROR: '会员id为空' != '项目id为空'
+- 会员id为空
++ 项目id为空
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_invest.py", line 41, in test_recharge
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '会员id为空' != '项目id为空'
+- 会员id为空
++ 项目id为空
+
+2021-02-12 17:19:47,726 - [test_invest.py-->line:47] - INFO: invest：投资人正常投资【通过】
+2021-02-12 17:19:47,822 - [test_invest.py-->line:47] - INFO: invest：投资人id为空【通过】
+2021-02-12 17:19:47,919 - [test_invest.py-->line:43] - ERROR: invest：标id为空【失败】*****
+2021-02-12 17:19:47,919 - [test_invest.py-->line:44] - ERROR: '会员id为空' != '项目id为空'
+- 会员id为空
++ 项目id为空
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_invest.py", line 41, in test_recharge
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '会员id为空' != '项目id为空'
+- 会员id为空
++ 项目id为空
+
+2021-02-12 17:19:48,020 - [test_invest.py-->line:47] - INFO: invest：投资金额为空【通过】
+2021-02-12 17:21:44,889 - [test_invest.py-->line:47] - INFO: invest：投资人正常投资【通过】
+2021-02-12 17:21:44,978 - [test_invest.py-->line:47] - INFO: invest：投资人id为空【通过】
+2021-02-12 17:21:45,071 - [test_invest.py-->line:43] - ERROR: invest：标id为空【失败】*****
+2021-02-12 17:21:45,071 - [test_invest.py-->line:44] - ERROR: 2 != 1
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_invest.py", line 40, in test_recharge
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 2 != 1
+2021-02-12 17:21:45,172 - [test_invest.py-->line:47] - INFO: invest：投资金额为空【通过】
+2021-02-12 17:23:33,802 - [test_invest.py-->line:47] - INFO: invest：投资人正常投资【通过】
+2021-02-12 17:23:33,889 - [test_invest.py-->line:47] - INFO: invest：投资人id为空【通过】
+2021-02-12 17:23:33,978 - [test_invest.py-->line:47] - INFO: invest：标id为空【通过】
+2021-02-12 17:23:34,066 - [test_invest.py-->line:47] - INFO: invest：投资金额为空【通过】
+2021-02-12 17:28:16,361 - [test_invest.py-->line:47] - INFO: invest：投资人正常投资【通过】
+2021-02-12 17:28:16,456 - [test_invest.py-->line:43] - ERROR: invest：投资人正常投资【失败】*****
+2021-02-12 17:28:16,456 - [test_invest.py-->line:44] - ERROR: 2 != 0
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_invest.py", line 40, in test_recharge
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 2 != 0
+2021-02-12 17:28:16,556 - [test_invest.py-->line:47] - INFO: invest：投资人id为空【通过】
+2021-02-12 17:28:16,645 - [test_invest.py-->line:47] - INFO: invest：标id为空【通过】
+2021-02-12 17:28:16,741 - [test_invest.py-->line:47] - INFO: invest：投资金额为空【通过】
+2021-02-12 17:29:38,392 - [test_add.py-->line:54] - INFO: add：加标成功【通过】
+2021-02-12 17:29:38,485 - [test_add.py-->line:54] - INFO: add：加标失败—借款人id为空【通过】
+2021-02-12 17:29:38,579 - [test_add.py-->line:54] - INFO: add：加标失败—标题为空【通过】
+2021-02-12 17:29:38,673 - [test_add.py-->line:54] - INFO: add：加标失败—借款金额为空【通过】
+2021-02-12 17:29:38,770 - [test_add.py-->line:54] - INFO: add：加标失败—年利率为空【通过】
+2021-02-12 17:29:38,865 - [test_add.py-->line:54] - INFO: add：加标失败—借款期限为空【通过】
+2021-02-12 17:29:38,959 - [test_add.py-->line:54] - INFO: add：加标失败—借款期限类型为空【通过】
+2021-02-12 17:29:39,052 - [test_add.py-->line:54] - INFO: add：加标失败—竞标天数为空【通过】
+2021-02-12 17:29:39,139 - [test_add.py-->line:54] - INFO: add：加标失败—借款人id不是当前登录用户【通过】
+2021-02-12 17:29:39,232 - [test_add.py-->line:54] - INFO: add：加标失败—借款金额为负数【通过】
+2021-02-12 17:29:39,327 - [test_add.py-->line:54] - INFO: add：加标失败—借款金额为小数【通过】
+2021-02-12 17:29:40,073 - [test_invest.py-->line:47] - INFO: invest：投资人正常投资【通过】
+2021-02-12 17:29:40,166 - [test_invest.py-->line:43] - ERROR: invest：投资人正常投资【失败】*****
+2021-02-12 17:29:40,167 - [test_invest.py-->line:44] - ERROR: 2 != 0
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_invest.py", line 40, in test_recharge
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 2 != 0
+2021-02-12 17:29:40,272 - [test_invest.py-->line:47] - INFO: invest：投资人id为空【通过】
+2021-02-12 17:29:40,364 - [test_invest.py-->line:47] - INFO: invest：标id为空【通过】
+2021-02-12 17:29:40,458 - [test_invest.py-->line:47] - INFO: invest：投资金额为空【通过】
+2021-02-12 17:29:40,583 - [test_login.py-->line:35] - INFO: 登录成功【通过】
+2021-02-12 17:29:40,678 - [test_login.py-->line:35] - INFO: 手机号为空【通过】
+2021-02-12 17:29:40,771 - [test_login.py-->line:35] - INFO: 密码为空【通过】
+2021-02-12 17:29:40,897 - [test_login.py-->line:35] - INFO: 手机号未注册【通过】
+2021-02-12 17:29:41,016 - [test_login.py-->line:35] - INFO: 密码错误【通过】
+2021-02-12 17:29:41,108 - [test_login.py-->line:35] - INFO: 手机号格式错误【通过】
+2021-02-12 17:29:41,680 - [test_recharge.py-->line:65] - INFO: recharge：充值成功【通过】
+2021-02-12 17:29:42,239 - [test_recharge.py-->line:65] - INFO: recharge：充值成功-金额为小数【通过】
+2021-02-12 17:29:42,458 - [test_recharge.py-->line:65] - INFO: recharge：id错误(不是当前用的id)【通过】
+2021-02-12 17:29:42,646 - [test_recharge.py-->line:65] - INFO: recharge：不输入id【通过】
+2021-02-12 17:29:42,841 - [test_recharge.py-->line:61] - ERROR: recharge：不输入金额【失败】*****
+2021-02-12 17:29:42,841 - [test_recharge.py-->line:62] - ERROR: 2 != 1
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_recharge.py", line 58, in test_recharge
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 2 != 1
+2021-02-12 17:29:43,038 - [test_recharge.py-->line:61] - ERROR: recharge：充值金额为负数【失败】*****
+2021-02-12 17:29:43,039 - [test_recharge.py-->line:62] - ERROR: '余额必须大于0并且小于或者等于500000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于500000
+? ^
++ 金额必须大于0并且小于或者等于500000
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_recharge.py", line 59, in test_recharge
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额必须大于0并且小于或者等于500000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于500000
+? ^
++ 金额必须大于0并且小于或者等于500000
+? ^
+
+2021-02-12 17:29:43,227 - [test_recharge.py-->line:61] - ERROR: recharge：充值金额为500001【失败】*****
+2021-02-12 17:29:43,227 - [test_recharge.py-->line:62] - ERROR: '余额必须大于0并且小于或者等于500000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于500000
+? ^
++ 金额必须大于0并且小于或者等于500000
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_recharge.py", line 59, in test_recharge
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额必须大于0并且小于或者等于500000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于500000
+? ^
++ 金额必须大于0并且小于或者等于500000
+? ^
+
+2021-02-12 17:29:43,404 - [test_recharge.py-->line:61] - ERROR: recharge：充值金额非数字【失败】*****
+2021-02-12 17:29:43,405 - [test_recharge.py-->line:62] - ERROR: '余额必须为数值型' != '金额必须为数值型'
+- 余额必须为数值型
+? ^
++ 金额必须为数值型
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_recharge.py", line 59, in test_recharge
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额必须为数值型' != '金额必须为数值型'
+- 余额必须为数值型
+? ^
++ 金额必须为数值型
+? ^
+
+2021-02-12 17:29:43,593 - [test_recharge.py-->line:61] - ERROR: recharge：充值金额小数点3位【失败】*****
+2021-02-12 17:29:43,594 - [test_recharge.py-->line:62] - ERROR: '余额小数超过两位' != '金额小数超过两位'
+- 余额小数超过两位
+? ^
++ 金额小数超过两位
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_recharge.py", line 59, in test_recharge
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额小数超过两位' != '金额小数超过两位'
+- 余额小数超过两位
+? ^
++ 金额小数超过两位
+? ^
+
+2021-02-12 17:29:43,940 - [test_register.py-->line:44] - INFO: 注册：注册成功-带注册名通过！
+2021-02-12 17:29:44,287 - [test_register.py-->line:44] - INFO: 注册：成功-不带用户名通过！
+2021-02-12 17:29:44,388 - [test_register.py-->line:44] - INFO: 注册：不输入手机号通过！
+2021-02-12 17:29:44,483 - [test_register.py-->line:44] - INFO: 注册：手机号长度10位通过！
+2021-02-12 17:29:44,576 - [test_register.py-->line:44] - INFO: 注册：手机号长度12位通过！
+2021-02-12 17:29:44,674 - [test_register.py-->line:44] - INFO: 注册：手机号含有非法字符通过！
+2021-02-12 17:29:44,803 - [test_register.py-->line:44] - INFO: 注册：已注册过的手机号通过！
+2021-02-12 17:29:45,023 - [test_register.py-->line:44] - INFO: 注册：密码7位通过！
+2021-02-12 17:29:45,382 - [test_register.py-->line:44] - INFO: 注册：密码17位通过！
+2021-02-12 17:29:45,637 - [test_register.py-->line:44] - INFO: 注册：不输入密码通过！
+2021-02-12 17:29:45,873 - [test_register.py-->line:40] - ERROR: 注册：注册名11位失败！
+2021-02-12 17:29:45,873 - [test_register.py-->line:41] - ERROR: 0 != 2
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_register.py", line 33, in test_register
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != 2
+2021-02-12 17:29:46,079 - [test_register.py-->line:44] - INFO: 注册：类型输入非0，1内容通过！
+2021-02-12 17:29:46,310 - [test_register.py-->line:40] - ERROR: 注册：手机号为字符串类型失败！
+2021-02-12 17:29:46,310 - [test_register.py-->line:41] - ERROR: 0 != 2
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_register.py", line 33, in test_register
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != 2
+2021-02-12 17:29:47,194 - [test_withdraw.py-->line:71] - INFO: withdraw：提现成功-整数【通过】
+2021-02-12 17:29:47,758 - [test_withdraw.py-->line:71] - INFO: withdraw：提现成功-1位小数【通过】
+2021-02-12 17:29:48,319 - [test_withdraw.py-->line:71] - INFO: withdraw：提现成功-2位小数【通过】
+2021-02-12 17:29:48,886 - [test_withdraw.py-->line:71] - INFO: withdraw：提现成功-50万【通过】
+2021-02-12 17:29:49,096 - [test_withdraw.py-->line:71] - INFO: withdraw：会员id为空【通过】
+2021-02-12 17:29:49,286 - [test_withdraw.py-->line:71] - INFO: withdraw：会员id不存在【通过】
+2021-02-12 17:29:49,482 - [test_withdraw.py-->line:67] - ERROR: withdraw：会员id为数值【失败】*****
+2021-02-12 17:29:49,483 - [test_withdraw.py-->line:68] - ERROR: 0 != 2
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 64, in test_withdraw
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != 2
+2021-02-12 17:29:49,715 - [test_withdraw.py-->line:71] - INFO: withdraw：会员id为小数【通过】
+2021-02-12 17:29:49,908 - [test_withdraw.py-->line:67] - ERROR: withdraw：提现金额为0【失败】*****
+2021-02-12 17:29:49,909 - [test_withdraw.py-->line:68] - ERROR: 0 != 2
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 64, in test_withdraw
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != 2
+2021-02-12 17:29:50,099 - [test_withdraw.py-->line:67] - ERROR: withdraw：提现金额为负数【失败】*****
+2021-02-12 17:29:50,100 - [test_withdraw.py-->line:68] - ERROR: '余额必须大于0并且小于或者等于5000000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于5000000
+? ^                    -
++ 金额必须大于0并且小于或者等于500000
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 65, in test_withdraw
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额必须大于0并且小于或者等于5000000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于5000000
+? ^                    -
++ 金额必须大于0并且小于或者等于500000
+? ^
+
+2021-02-12 17:29:50,289 - [test_withdraw.py-->line:67] - ERROR: withdraw：提现金额为空【失败】*****
+2021-02-12 17:29:50,290 - [test_withdraw.py-->line:68] - ERROR: '余额为空' != '金额为空'
+- 余额为空
+? ^
++ 金额为空
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 65, in test_withdraw
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额为空' != '金额为空'
+- 余额为空
+? ^
++ 金额为空
+? ^
+
+2021-02-12 17:29:50,488 - [test_withdraw.py-->line:67] - ERROR: withdraw：提现金额-3位小数【失败】*****
+2021-02-12 17:29:50,488 - [test_withdraw.py-->line:68] - ERROR: '余额小数超过两位' != '金额小数超过两位'
+- 余额小数超过两位
+? ^
++ 金额小数超过两位
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 65, in test_withdraw
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额小数超过两位' != '金额小数超过两位'
+- 余额小数超过两位
+? ^
++ 金额小数超过两位
+? ^
+
+2021-02-12 17:29:50,672 - [test_withdraw.py-->line:67] - ERROR: withdraw：提现金额-大于50万【失败】*****
+2021-02-12 17:29:50,673 - [test_withdraw.py-->line:68] - ERROR: '余额必须大于0并且小于或者等于5000000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于5000000
+? ^                    -
++ 金额必须大于0并且小于或者等于500000
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 65, in test_withdraw
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额必须大于0并且小于或者等于5000000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于5000000
+? ^                    -
++ 金额必须大于0并且小于或者等于500000
+? ^
+
+2021-02-12 17:29:50,851 - [test_withdraw.py-->line:71] - INFO: withdraw：提现金额-非数字【通过】
+2021-02-12 17:32:34,363 - [test_add.py-->line:54] - INFO: add：加标成功【通过】
+2021-02-12 17:32:34,457 - [test_add.py-->line:54] - INFO: add：加标失败—借款人id为空【通过】
+2021-02-12 17:32:34,546 - [test_add.py-->line:54] - INFO: add：加标失败—标题为空【通过】
+2021-02-12 17:32:34,639 - [test_add.py-->line:54] - INFO: add：加标失败—借款金额为空【通过】
+2021-02-12 17:32:34,736 - [test_add.py-->line:54] - INFO: add：加标失败—年利率为空【通过】
+2021-02-12 17:32:34,832 - [test_add.py-->line:54] - INFO: add：加标失败—借款期限为空【通过】
+2021-02-12 17:32:34,925 - [test_add.py-->line:54] - INFO: add：加标失败—借款期限类型为空【通过】
+2021-02-12 17:32:35,014 - [test_add.py-->line:54] - INFO: add：加标失败—竞标天数为空【通过】
+2021-02-12 17:32:35,104 - [test_add.py-->line:54] - INFO: add：加标失败—借款人id不是当前登录用户【通过】
+2021-02-12 17:32:35,196 - [test_add.py-->line:54] - INFO: add：加标失败—借款金额为负数【通过】
+2021-02-12 17:32:35,291 - [test_add.py-->line:54] - INFO: add：加标失败—借款金额为小数【通过】
+2021-02-12 17:32:35,851 - [test_audit.py-->line:56] - INFO: audit：审核通过【通过】
+2021-02-12 17:32:36,142 - [test_audit.py-->line:56] - INFO: audit：项目不待审核状态【通过】
+2021-02-12 17:32:36,585 - [test_audit.py-->line:56] - INFO: audit：审核不通过【通过】
+2021-02-12 17:32:36,871 - [test_audit.py-->line:56] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 17:32:37,158 - [test_audit.py-->line:56] - INFO: audit：项目id为空【通过】
+2021-02-12 17:32:37,441 - [test_audit.py-->line:56] - INFO: audit：项目id不存在【通过】
+2021-02-12 17:32:38,056 - [test_invest.py-->line:47] - INFO: invest：投资人正常投资【通过】
+2021-02-12 17:32:38,155 - [test_invest.py-->line:43] - ERROR: invest：投资人正常投资【失败】*****
+2021-02-12 17:32:38,155 - [test_invest.py-->line:44] - ERROR: 2 != 0
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_invest.py", line 40, in test_recharge
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 2 != 0
+2021-02-12 17:32:38,261 - [test_invest.py-->line:47] - INFO: invest：投资人id为空【通过】
+2021-02-12 17:32:38,357 - [test_invest.py-->line:47] - INFO: invest：标id为空【通过】
+2021-02-12 17:32:38,444 - [test_invest.py-->line:47] - INFO: invest：投资金额为空【通过】
+2021-02-12 17:32:38,565 - [test_login.py-->line:35] - INFO: 登录成功【通过】
+2021-02-12 17:32:38,655 - [test_login.py-->line:35] - INFO: 手机号为空【通过】
+2021-02-12 17:32:38,751 - [test_login.py-->line:35] - INFO: 密码为空【通过】
+2021-02-12 17:32:38,874 - [test_login.py-->line:35] - INFO: 手机号未注册【通过】
+2021-02-12 17:32:38,999 - [test_login.py-->line:35] - INFO: 密码错误【通过】
+2021-02-12 17:32:39,089 - [test_login.py-->line:35] - INFO: 手机号格式错误【通过】
+2021-02-12 17:32:39,657 - [test_recharge.py-->line:65] - INFO: recharge：充值成功【通过】
+2021-02-12 17:32:40,226 - [test_recharge.py-->line:65] - INFO: recharge：充值成功-金额为小数【通过】
+2021-02-12 17:32:40,446 - [test_recharge.py-->line:65] - INFO: recharge：id错误(不是当前用的id)【通过】
+2021-02-12 17:32:40,626 - [test_recharge.py-->line:65] - INFO: recharge：不输入id【通过】
+2021-02-12 17:32:40,814 - [test_recharge.py-->line:61] - ERROR: recharge：不输入金额【失败】*****
+2021-02-12 17:32:40,815 - [test_recharge.py-->line:62] - ERROR: 2 != 1
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_recharge.py", line 58, in test_recharge
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 2 != 1
+2021-02-12 17:32:41,006 - [test_recharge.py-->line:61] - ERROR: recharge：充值金额为负数【失败】*****
+2021-02-12 17:32:41,007 - [test_recharge.py-->line:62] - ERROR: '余额必须大于0并且小于或者等于500000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于500000
+? ^
++ 金额必须大于0并且小于或者等于500000
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_recharge.py", line 59, in test_recharge
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额必须大于0并且小于或者等于500000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于500000
+? ^
++ 金额必须大于0并且小于或者等于500000
+? ^
+
+2021-02-12 17:32:41,191 - [test_recharge.py-->line:61] - ERROR: recharge：充值金额为500001【失败】*****
+2021-02-12 17:32:41,191 - [test_recharge.py-->line:62] - ERROR: '余额必须大于0并且小于或者等于500000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于500000
+? ^
++ 金额必须大于0并且小于或者等于500000
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_recharge.py", line 59, in test_recharge
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额必须大于0并且小于或者等于500000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于500000
+? ^
++ 金额必须大于0并且小于或者等于500000
+? ^
+
+2021-02-12 17:32:41,369 - [test_recharge.py-->line:61] - ERROR: recharge：充值金额非数字【失败】*****
+2021-02-12 17:32:41,369 - [test_recharge.py-->line:62] - ERROR: '余额必须为数值型' != '金额必须为数值型'
+- 余额必须为数值型
+? ^
++ 金额必须为数值型
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_recharge.py", line 59, in test_recharge
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额必须为数值型' != '金额必须为数值型'
+- 余额必须为数值型
+? ^
++ 金额必须为数值型
+? ^
+
+2021-02-12 17:32:41,542 - [test_recharge.py-->line:61] - ERROR: recharge：充值金额小数点3位【失败】*****
+2021-02-12 17:32:41,542 - [test_recharge.py-->line:62] - ERROR: '余额小数超过两位' != '金额小数超过两位'
+- 余额小数超过两位
+? ^
++ 金额小数超过两位
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_recharge.py", line 59, in test_recharge
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额小数超过两位' != '金额小数超过两位'
+- 余额小数超过两位
+? ^
++ 金额小数超过两位
+? ^
+
+2021-02-12 17:32:41,880 - [test_register.py-->line:44] - INFO: 注册：注册成功-带注册名通过！
+2021-02-12 17:32:42,221 - [test_register.py-->line:44] - INFO: 注册：成功-不带用户名通过！
+2021-02-12 17:32:42,314 - [test_register.py-->line:44] - INFO: 注册：不输入手机号通过！
+2021-02-12 17:32:42,406 - [test_register.py-->line:44] - INFO: 注册：手机号长度10位通过！
+2021-02-12 17:32:42,499 - [test_register.py-->line:44] - INFO: 注册：手机号长度12位通过！
+2021-02-12 17:32:42,591 - [test_register.py-->line:44] - INFO: 注册：手机号含有非法字符通过！
+2021-02-12 17:32:42,713 - [test_register.py-->line:44] - INFO: 注册：已注册过的手机号通过！
+2021-02-12 17:32:42,917 - [test_register.py-->line:44] - INFO: 注册：密码7位通过！
+2021-02-12 17:32:43,125 - [test_register.py-->line:44] - INFO: 注册：密码17位通过！
+2021-02-12 17:32:43,329 - [test_register.py-->line:44] - INFO: 注册：不输入密码通过！
+2021-02-12 17:32:43,563 - [test_register.py-->line:40] - ERROR: 注册：注册名11位失败！
+2021-02-12 17:32:43,564 - [test_register.py-->line:41] - ERROR: 0 != 2
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_register.py", line 33, in test_register
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != 2
+2021-02-12 17:32:43,776 - [test_register.py-->line:44] - INFO: 注册：类型输入非0，1内容通过！
+2021-02-12 17:32:44,012 - [test_register.py-->line:40] - ERROR: 注册：手机号为字符串类型失败！
+2021-02-12 17:32:44,012 - [test_register.py-->line:41] - ERROR: 0 != 2
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_register.py", line 33, in test_register
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != 2
+2021-02-12 17:32:44,889 - [test_withdraw.py-->line:71] - INFO: withdraw：提现成功-整数【通过】
+2021-02-12 17:32:45,445 - [test_withdraw.py-->line:71] - INFO: withdraw：提现成功-1位小数【通过】
+2021-02-12 17:32:46,004 - [test_withdraw.py-->line:71] - INFO: withdraw：提现成功-2位小数【通过】
+2021-02-12 17:32:46,565 - [test_withdraw.py-->line:71] - INFO: withdraw：提现成功-50万【通过】
+2021-02-12 17:32:46,805 - [test_withdraw.py-->line:71] - INFO: withdraw：会员id为空【通过】
+2021-02-12 17:32:46,999 - [test_withdraw.py-->line:71] - INFO: withdraw：会员id不存在【通过】
+2021-02-12 17:32:47,189 - [test_withdraw.py-->line:67] - ERROR: withdraw：会员id为数值【失败】*****
+2021-02-12 17:32:47,189 - [test_withdraw.py-->line:68] - ERROR: 0 != 2
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 64, in test_withdraw
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != 2
+2021-02-12 17:32:47,421 - [test_withdraw.py-->line:71] - INFO: withdraw：会员id为小数【通过】
+2021-02-12 17:32:47,622 - [test_withdraw.py-->line:67] - ERROR: withdraw：提现金额为0【失败】*****
+2021-02-12 17:32:47,623 - [test_withdraw.py-->line:68] - ERROR: 0 != 2
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 64, in test_withdraw
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != 2
+2021-02-12 17:32:47,811 - [test_withdraw.py-->line:67] - ERROR: withdraw：提现金额为负数【失败】*****
+2021-02-12 17:32:47,812 - [test_withdraw.py-->line:68] - ERROR: '余额必须大于0并且小于或者等于5000000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于5000000
+? ^                    -
++ 金额必须大于0并且小于或者等于500000
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 65, in test_withdraw
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额必须大于0并且小于或者等于5000000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于5000000
+? ^                    -
++ 金额必须大于0并且小于或者等于500000
+? ^
+
+2021-02-12 17:32:48,000 - [test_withdraw.py-->line:67] - ERROR: withdraw：提现金额为空【失败】*****
+2021-02-12 17:32:48,001 - [test_withdraw.py-->line:68] - ERROR: '余额为空' != '金额为空'
+- 余额为空
+? ^
++ 金额为空
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 65, in test_withdraw
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额为空' != '金额为空'
+- 余额为空
+? ^
++ 金额为空
+? ^
+
+2021-02-12 17:32:48,191 - [test_withdraw.py-->line:67] - ERROR: withdraw：提现金额-3位小数【失败】*****
+2021-02-12 17:32:48,191 - [test_withdraw.py-->line:68] - ERROR: '余额小数超过两位' != '金额小数超过两位'
+- 余额小数超过两位
+? ^
++ 金额小数超过两位
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 65, in test_withdraw
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额小数超过两位' != '金额小数超过两位'
+- 余额小数超过两位
+? ^
++ 金额小数超过两位
+? ^
+
+2021-02-12 17:32:48,377 - [test_withdraw.py-->line:67] - ERROR: withdraw：提现金额-大于50万【失败】*****
+2021-02-12 17:32:48,377 - [test_withdraw.py-->line:68] - ERROR: '余额必须大于0并且小于或者等于5000000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于5000000
+? ^                    -
++ 金额必须大于0并且小于或者等于500000
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 65, in test_withdraw
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额必须大于0并且小于或者等于5000000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于5000000
+? ^                    -
++ 金额必须大于0并且小于或者等于500000
+? ^
+
+2021-02-12 17:32:48,567 - [test_withdraw.py-->line:71] - INFO: withdraw：提现金额-非数字【通过】
+2021-02-12 17:34:02,479 - [test_add.py-->line:54] - INFO: add：加标成功【通过】
+2021-02-12 17:34:02,575 - [test_add.py-->line:54] - INFO: add：加标失败—借款人id为空【通过】
+2021-02-12 17:34:02,672 - [test_add.py-->line:54] - INFO: add：加标失败—标题为空【通过】
+2021-02-12 17:34:02,768 - [test_add.py-->line:54] - INFO: add：加标失败—借款金额为空【通过】
+2021-02-12 17:34:02,867 - [test_add.py-->line:54] - INFO: add：加标失败—年利率为空【通过】
+2021-02-12 17:34:02,960 - [test_add.py-->line:54] - INFO: add：加标失败—借款期限为空【通过】
+2021-02-12 17:34:03,051 - [test_add.py-->line:54] - INFO: add：加标失败—借款期限类型为空【通过】
+2021-02-12 17:34:03,145 - [test_add.py-->line:54] - INFO: add：加标失败—竞标天数为空【通过】
+2021-02-12 17:34:03,241 - [test_add.py-->line:54] - INFO: add：加标失败—借款人id不是当前登录用户【通过】
+2021-02-12 17:34:03,335 - [test_add.py-->line:54] - INFO: add：加标失败—借款金额为负数【通过】
+2021-02-12 17:34:03,430 - [test_add.py-->line:54] - INFO: add：加标失败—借款金额为小数【通过】
+2021-02-12 17:34:04,019 - [test_audit.py-->line:56] - INFO: audit：审核通过【通过】
+2021-02-12 17:34:04,309 - [test_audit.py-->line:56] - INFO: audit：项目不待审核状态【通过】
+2021-02-12 17:34:04,770 - [test_audit.py-->line:56] - INFO: audit：审核不通过【通过】
+2021-02-12 17:34:05,063 - [test_audit.py-->line:56] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 17:34:05,340 - [test_audit.py-->line:56] - INFO: audit：项目id为空【通过】
+2021-02-12 17:34:05,634 - [test_audit.py-->line:56] - INFO: audit：项目id不存在【通过】
+2021-02-12 17:34:06,233 - [test_invest.py-->line:47] - INFO: invest：投资人正常投资【通过】
+2021-02-12 17:34:06,328 - [test_invest.py-->line:43] - ERROR: invest：投资人正常投资【失败】*****
+2021-02-12 17:34:06,328 - [test_invest.py-->line:44] - ERROR: 2 != 0
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_invest.py", line 40, in test_recharge
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 2 != 0
+2021-02-12 17:34:06,434 - [test_invest.py-->line:47] - INFO: invest：投资人id为空【通过】
+2021-02-12 17:34:06,524 - [test_invest.py-->line:47] - INFO: invest：标id为空【通过】
+2021-02-12 17:34:06,612 - [test_invest.py-->line:47] - INFO: invest：投资金额为空【通过】
+2021-02-12 17:34:06,731 - [test_login.py-->line:35] - INFO: 登录成功【通过】
+2021-02-12 17:34:06,828 - [test_login.py-->line:35] - INFO: 手机号为空【通过】
+2021-02-12 17:34:06,919 - [test_login.py-->line:35] - INFO: 密码为空【通过】
+2021-02-12 17:34:07,041 - [test_login.py-->line:35] - INFO: 手机号未注册【通过】
+2021-02-12 17:34:07,161 - [test_login.py-->line:35] - INFO: 密码错误【通过】
+2021-02-12 17:34:07,258 - [test_login.py-->line:35] - INFO: 手机号格式错误【通过】
+2021-02-12 17:34:07,842 - [test_recharge.py-->line:65] - INFO: recharge：充值成功【通过】
+2021-02-12 17:34:08,412 - [test_recharge.py-->line:65] - INFO: recharge：充值成功-金额为小数【通过】
+2021-02-12 17:34:08,630 - [test_recharge.py-->line:65] - INFO: recharge：id错误(不是当前用的id)【通过】
+2021-02-12 17:34:08,812 - [test_recharge.py-->line:65] - INFO: recharge：不输入id【通过】
+2021-02-12 17:34:09,004 - [test_recharge.py-->line:61] - ERROR: recharge：不输入金额【失败】*****
+2021-02-12 17:34:09,005 - [test_recharge.py-->line:62] - ERROR: 2 != 1
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_recharge.py", line 58, in test_recharge
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 2 != 1
+2021-02-12 17:34:09,203 - [test_recharge.py-->line:61] - ERROR: recharge：充值金额为负数【失败】*****
+2021-02-12 17:34:09,203 - [test_recharge.py-->line:62] - ERROR: '余额必须大于0并且小于或者等于500000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于500000
+? ^
++ 金额必须大于0并且小于或者等于500000
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_recharge.py", line 59, in test_recharge
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额必须大于0并且小于或者等于500000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于500000
+? ^
++ 金额必须大于0并且小于或者等于500000
+? ^
+
+2021-02-12 17:34:09,383 - [test_recharge.py-->line:61] - ERROR: recharge：充值金额为500001【失败】*****
+2021-02-12 17:34:09,383 - [test_recharge.py-->line:62] - ERROR: '余额必须大于0并且小于或者等于500000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于500000
+? ^
++ 金额必须大于0并且小于或者等于500000
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_recharge.py", line 59, in test_recharge
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额必须大于0并且小于或者等于500000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于500000
+? ^
++ 金额必须大于0并且小于或者等于500000
+? ^
+
+2021-02-12 17:34:09,566 - [test_recharge.py-->line:61] - ERROR: recharge：充值金额非数字【失败】*****
+2021-02-12 17:34:09,566 - [test_recharge.py-->line:62] - ERROR: '余额必须为数值型' != '金额必须为数值型'
+- 余额必须为数值型
+? ^
++ 金额必须为数值型
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_recharge.py", line 59, in test_recharge
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额必须为数值型' != '金额必须为数值型'
+- 余额必须为数值型
+? ^
++ 金额必须为数值型
+? ^
+
+2021-02-12 17:34:09,758 - [test_recharge.py-->line:61] - ERROR: recharge：充值金额小数点3位【失败】*****
+2021-02-12 17:34:09,758 - [test_recharge.py-->line:62] - ERROR: '余额小数超过两位' != '金额小数超过两位'
+- 余额小数超过两位
+? ^
++ 金额小数超过两位
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_recharge.py", line 59, in test_recharge
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额小数超过两位' != '金额小数超过两位'
+- 余额小数超过两位
+? ^
++ 金额小数超过两位
+? ^
+
+2021-02-12 17:34:10,133 - [test_register.py-->line:44] - INFO: 注册：注册成功-带注册名通过！
+2021-02-12 17:34:10,510 - [test_register.py-->line:44] - INFO: 注册：成功-不带用户名通过！
+2021-02-12 17:34:10,606 - [test_register.py-->line:44] - INFO: 注册：不输入手机号通过！
+2021-02-12 17:34:10,702 - [test_register.py-->line:44] - INFO: 注册：手机号长度10位通过！
+2021-02-12 17:34:10,804 - [test_register.py-->line:44] - INFO: 注册：手机号长度12位通过！
+2021-02-12 17:34:10,901 - [test_register.py-->line:44] - INFO: 注册：手机号含有非法字符通过！
+2021-02-12 17:34:11,022 - [test_register.py-->line:44] - INFO: 注册：已注册过的手机号通过！
+2021-02-12 17:34:11,229 - [test_register.py-->line:44] - INFO: 注册：密码7位通过！
+2021-02-12 17:34:11,442 - [test_register.py-->line:44] - INFO: 注册：密码17位通过！
+2021-02-12 17:34:11,643 - [test_register.py-->line:44] - INFO: 注册：不输入密码通过！
+2021-02-12 17:34:11,901 - [test_register.py-->line:40] - ERROR: 注册：注册名11位失败！
+2021-02-12 17:34:11,902 - [test_register.py-->line:41] - ERROR: 0 != 2
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_register.py", line 33, in test_register
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != 2
+2021-02-12 17:34:12,121 - [test_register.py-->line:44] - INFO: 注册：类型输入非0，1内容通过！
+2021-02-12 17:34:12,356 - [test_register.py-->line:40] - ERROR: 注册：手机号为字符串类型失败！
+2021-02-12 17:34:12,357 - [test_register.py-->line:41] - ERROR: 0 != 2
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_register.py", line 33, in test_register
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != 2
+2021-02-12 17:34:13,278 - [test_withdraw.py-->line:71] - INFO: withdraw：提现成功-整数【通过】
+2021-02-12 17:34:13,877 - [test_withdraw.py-->line:71] - INFO: withdraw：提现成功-1位小数【通过】
+2021-02-12 17:34:14,456 - [test_withdraw.py-->line:71] - INFO: withdraw：提现成功-2位小数【通过】
+2021-02-12 17:34:15,029 - [test_withdraw.py-->line:71] - INFO: withdraw：提现成功-50万【通过】
+2021-02-12 17:34:15,254 - [test_withdraw.py-->line:71] - INFO: withdraw：会员id为空【通过】
+2021-02-12 17:34:15,448 - [test_withdraw.py-->line:71] - INFO: withdraw：会员id不存在【通过】
+2021-02-12 17:34:15,635 - [test_withdraw.py-->line:67] - ERROR: withdraw：会员id为数值【失败】*****
+2021-02-12 17:34:15,636 - [test_withdraw.py-->line:68] - ERROR: 0 != 2
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 64, in test_withdraw
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != 2
+2021-02-12 17:34:15,855 - [test_withdraw.py-->line:71] - INFO: withdraw：会员id为小数【通过】
+2021-02-12 17:34:16,048 - [test_withdraw.py-->line:67] - ERROR: withdraw：提现金额为0【失败】*****
+2021-02-12 17:34:16,049 - [test_withdraw.py-->line:68] - ERROR: 0 != 2
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 64, in test_withdraw
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != 2
+2021-02-12 17:34:16,241 - [test_withdraw.py-->line:67] - ERROR: withdraw：提现金额为负数【失败】*****
+2021-02-12 17:34:16,241 - [test_withdraw.py-->line:68] - ERROR: '余额必须大于0并且小于或者等于5000000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于5000000
+? ^                    -
++ 金额必须大于0并且小于或者等于500000
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 65, in test_withdraw
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额必须大于0并且小于或者等于5000000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于5000000
+? ^                    -
++ 金额必须大于0并且小于或者等于500000
+? ^
+
+2021-02-12 17:34:16,428 - [test_withdraw.py-->line:67] - ERROR: withdraw：提现金额为空【失败】*****
+2021-02-12 17:34:16,428 - [test_withdraw.py-->line:68] - ERROR: '余额为空' != '金额为空'
+- 余额为空
+? ^
++ 金额为空
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 65, in test_withdraw
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额为空' != '金额为空'
+- 余额为空
+? ^
++ 金额为空
+? ^
+
+2021-02-12 17:34:16,614 - [test_withdraw.py-->line:67] - ERROR: withdraw：提现金额-3位小数【失败】*****
+2021-02-12 17:34:16,615 - [test_withdraw.py-->line:68] - ERROR: '余额小数超过两位' != '金额小数超过两位'
+- 余额小数超过两位
+? ^
++ 金额小数超过两位
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 65, in test_withdraw
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额小数超过两位' != '金额小数超过两位'
+- 余额小数超过两位
+? ^
++ 金额小数超过两位
+? ^
+
+2021-02-12 17:34:16,812 - [test_withdraw.py-->line:67] - ERROR: withdraw：提现金额-大于50万【失败】*****
+2021-02-12 17:34:16,812 - [test_withdraw.py-->line:68] - ERROR: '余额必须大于0并且小于或者等于5000000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于5000000
+? ^                    -
++ 金额必须大于0并且小于或者等于500000
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 65, in test_withdraw
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额必须大于0并且小于或者等于5000000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于5000000
+? ^                    -
++ 金额必须大于0并且小于或者等于500000
+? ^
+
+2021-02-12 17:34:17,003 - [test_withdraw.py-->line:71] - INFO: withdraw：提现金额-非数字【通过】
+2021-02-12 17:37:10,034 - [test_add.py-->line:54] - INFO: add：加标成功【通过】
+2021-02-12 17:37:10,119 - [test_add.py-->line:54] - INFO: add：加标失败—借款人id为空【通过】
+2021-02-12 17:37:10,213 - [test_add.py-->line:54] - INFO: add：加标失败—标题为空【通过】
+2021-02-12 17:37:10,308 - [test_add.py-->line:54] - INFO: add：加标失败—借款金额为空【通过】
+2021-02-12 17:37:10,399 - [test_add.py-->line:54] - INFO: add：加标失败—年利率为空【通过】
+2021-02-12 17:37:10,490 - [test_add.py-->line:54] - INFO: add：加标失败—借款期限为空【通过】
+2021-02-12 17:37:10,582 - [test_add.py-->line:54] - INFO: add：加标失败—借款期限类型为空【通过】
+2021-02-12 17:37:10,666 - [test_add.py-->line:54] - INFO: add：加标失败—竞标天数为空【通过】
+2021-02-12 17:37:10,755 - [test_add.py-->line:54] - INFO: add：加标失败—借款人id不是当前登录用户【通过】
+2021-02-12 17:37:10,840 - [test_add.py-->line:54] - INFO: add：加标失败—借款金额为负数【通过】
+2021-02-12 17:37:10,929 - [test_add.py-->line:54] - INFO: add：加标失败—借款金额为小数【通过】
+2021-02-12 17:37:11,521 - [test_audit.py-->line:56] - INFO: audit：审核通过【通过】
+2021-02-12 17:37:11,805 - [test_audit.py-->line:56] - INFO: audit：项目不待审核状态【通过】
+2021-02-12 17:37:12,272 - [test_audit.py-->line:56] - INFO: audit：审核不通过【通过】
+2021-02-12 17:37:12,550 - [test_audit.py-->line:56] - INFO: audit：参数approved_or_not为空【通过】
+2021-02-12 17:37:12,810 - [test_audit.py-->line:56] - INFO: audit：项目id为空【通过】
+2021-02-12 17:37:13,073 - [test_audit.py-->line:56] - INFO: audit：项目id不存在【通过】
+2021-02-12 17:37:13,648 - [test_invest.py-->line:47] - INFO: invest：投资人正常投资【通过】
+2021-02-12 17:37:13,745 - [test_invest.py-->line:43] - ERROR: invest：投资人正常投资【失败】*****
+2021-02-12 17:37:13,746 - [test_invest.py-->line:44] - ERROR: 2 != 0
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_invest.py", line 40, in test_recharge
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 2 != 0
+2021-02-12 17:37:13,836 - [test_invest.py-->line:47] - INFO: invest：投资人id为空【通过】
+2021-02-12 17:37:13,927 - [test_invest.py-->line:47] - INFO: invest：标id为空【通过】
+2021-02-12 17:37:14,020 - [test_invest.py-->line:47] - INFO: invest：投资金额为空【通过】
+2021-02-12 17:37:14,135 - [test_login.py-->line:35] - INFO: 登录成功【通过】
+2021-02-12 17:37:14,222 - [test_login.py-->line:35] - INFO: 手机号为空【通过】
+2021-02-12 17:37:14,312 - [test_login.py-->line:35] - INFO: 密码为空【通过】
+2021-02-12 17:37:14,428 - [test_login.py-->line:35] - INFO: 手机号未注册【通过】
+2021-02-12 17:37:14,550 - [test_login.py-->line:35] - INFO: 密码错误【通过】
+2021-02-12 17:37:14,644 - [test_login.py-->line:35] - INFO: 手机号格式错误【通过】
+2021-02-12 17:37:15,221 - [test_recharge.py-->line:65] - INFO: recharge：充值成功【通过】
+2021-02-12 17:37:15,777 - [test_recharge.py-->line:65] - INFO: recharge：充值成功-金额为小数【通过】
+2021-02-12 17:37:15,980 - [test_recharge.py-->line:65] - INFO: recharge：id错误(不是当前用的id)【通过】
+2021-02-12 17:37:16,151 - [test_recharge.py-->line:65] - INFO: recharge：不输入id【通过】
+2021-02-12 17:37:16,336 - [test_recharge.py-->line:61] - ERROR: recharge：不输入金额【失败】*****
+2021-02-12 17:37:16,336 - [test_recharge.py-->line:62] - ERROR: 2 != 1
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_recharge.py", line 58, in test_recharge
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 2 != 1
+2021-02-12 17:37:16,523 - [test_recharge.py-->line:61] - ERROR: recharge：充值金额为负数【失败】*****
+2021-02-12 17:37:16,523 - [test_recharge.py-->line:62] - ERROR: '余额必须大于0并且小于或者等于500000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于500000
+? ^
++ 金额必须大于0并且小于或者等于500000
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_recharge.py", line 59, in test_recharge
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额必须大于0并且小于或者等于500000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于500000
+? ^
++ 金额必须大于0并且小于或者等于500000
+? ^
+
+2021-02-12 17:37:16,710 - [test_recharge.py-->line:61] - ERROR: recharge：充值金额为500001【失败】*****
+2021-02-12 17:37:16,710 - [test_recharge.py-->line:62] - ERROR: '余额必须大于0并且小于或者等于500000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于500000
+? ^
++ 金额必须大于0并且小于或者等于500000
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_recharge.py", line 59, in test_recharge
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额必须大于0并且小于或者等于500000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于500000
+? ^
++ 金额必须大于0并且小于或者等于500000
+? ^
+
+2021-02-12 17:37:16,893 - [test_recharge.py-->line:61] - ERROR: recharge：充值金额非数字【失败】*****
+2021-02-12 17:37:16,893 - [test_recharge.py-->line:62] - ERROR: '余额必须为数值型' != '金额必须为数值型'
+- 余额必须为数值型
+? ^
++ 金额必须为数值型
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_recharge.py", line 59, in test_recharge
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额必须为数值型' != '金额必须为数值型'
+- 余额必须为数值型
+? ^
++ 金额必须为数值型
+? ^
+
+2021-02-12 17:37:17,081 - [test_recharge.py-->line:61] - ERROR: recharge：充值金额小数点3位【失败】*****
+2021-02-12 17:37:17,082 - [test_recharge.py-->line:62] - ERROR: '余额小数超过两位' != '金额小数超过两位'
+- 余额小数超过两位
+? ^
++ 金额小数超过两位
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_recharge.py", line 59, in test_recharge
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额小数超过两位' != '金额小数超过两位'
+- 余额小数超过两位
+? ^
++ 金额小数超过两位
+? ^
+
+2021-02-12 17:37:17,436 - [test_register.py-->line:44] - INFO: 注册：注册成功-带注册名通过！
+2021-02-12 17:37:17,796 - [test_register.py-->line:44] - INFO: 注册：成功-不带用户名通过！
+2021-02-12 17:37:17,888 - [test_register.py-->line:44] - INFO: 注册：不输入手机号通过！
+2021-02-12 17:37:17,977 - [test_register.py-->line:44] - INFO: 注册：手机号长度10位通过！
+2021-02-12 17:37:18,071 - [test_register.py-->line:44] - INFO: 注册：手机号长度12位通过！
+2021-02-12 17:37:18,167 - [test_register.py-->line:44] - INFO: 注册：手机号含有非法字符通过！
+2021-02-12 17:37:18,292 - [test_register.py-->line:44] - INFO: 注册：已注册过的手机号通过！
+2021-02-12 17:37:18,500 - [test_register.py-->line:44] - INFO: 注册：密码7位通过！
+2021-02-12 17:37:18,712 - [test_register.py-->line:44] - INFO: 注册：密码17位通过！
+2021-02-12 17:37:18,920 - [test_register.py-->line:44] - INFO: 注册：不输入密码通过！
+2021-02-12 17:37:19,160 - [test_register.py-->line:40] - ERROR: 注册：注册名11位失败！
+2021-02-12 17:37:19,160 - [test_register.py-->line:41] - ERROR: 0 != 2
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_register.py", line 33, in test_register
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != 2
+2021-02-12 17:37:19,382 - [test_register.py-->line:44] - INFO: 注册：类型输入非0，1内容通过！
+2021-02-12 17:37:19,620 - [test_register.py-->line:40] - ERROR: 注册：手机号为字符串类型失败！
+2021-02-12 17:37:19,620 - [test_register.py-->line:41] - ERROR: 0 != 2
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_register.py", line 33, in test_register
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != 2
+2021-02-12 17:37:20,532 - [test_withdraw.py-->line:71] - INFO: withdraw：提现成功-整数【通过】
+2021-02-12 17:37:21,133 - [test_withdraw.py-->line:71] - INFO: withdraw：提现成功-1位小数【通过】
+2021-02-12 17:37:21,705 - [test_withdraw.py-->line:71] - INFO: withdraw：提现成功-2位小数【通过】
+2021-02-12 17:37:22,282 - [test_withdraw.py-->line:71] - INFO: withdraw：提现成功-50万【通过】
+2021-02-12 17:37:22,517 - [test_withdraw.py-->line:71] - INFO: withdraw：会员id为空【通过】
+2021-02-12 17:37:22,706 - [test_withdraw.py-->line:71] - INFO: withdraw：会员id不存在【通过】
+2021-02-12 17:37:22,903 - [test_withdraw.py-->line:67] - ERROR: withdraw：会员id为数值【失败】*****
+2021-02-12 17:37:22,904 - [test_withdraw.py-->line:68] - ERROR: 0 != 2
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 64, in test_withdraw
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != 2
+2021-02-12 17:37:23,127 - [test_withdraw.py-->line:71] - INFO: withdraw：会员id为小数【通过】
+2021-02-12 17:37:23,316 - [test_withdraw.py-->line:67] - ERROR: withdraw：提现金额为0【失败】*****
+2021-02-12 17:37:23,316 - [test_withdraw.py-->line:68] - ERROR: 0 != 2
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 64, in test_withdraw
+    self.assertEqual(res.json()['code'],expected['code'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 0 != 2
+2021-02-12 17:37:23,497 - [test_withdraw.py-->line:67] - ERROR: withdraw：提现金额为负数【失败】*****
+2021-02-12 17:37:23,497 - [test_withdraw.py-->line:68] - ERROR: '余额必须大于0并且小于或者等于5000000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于5000000
+? ^                    -
++ 金额必须大于0并且小于或者等于500000
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 65, in test_withdraw
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额必须大于0并且小于或者等于5000000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于5000000
+? ^                    -
++ 金额必须大于0并且小于或者等于500000
+? ^
+
+2021-02-12 17:37:23,690 - [test_withdraw.py-->line:67] - ERROR: withdraw：提现金额为空【失败】*****
+2021-02-12 17:37:23,690 - [test_withdraw.py-->line:68] - ERROR: '余额为空' != '金额为空'
+- 余额为空
+? ^
++ 金额为空
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 65, in test_withdraw
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额为空' != '金额为空'
+- 余额为空
+? ^
++ 金额为空
+? ^
+
+2021-02-12 17:37:23,889 - [test_withdraw.py-->line:67] - ERROR: withdraw：提现金额-3位小数【失败】*****
+2021-02-12 17:37:23,889 - [test_withdraw.py-->line:68] - ERROR: '余额小数超过两位' != '金额小数超过两位'
+- 余额小数超过两位
+? ^
++ 金额小数超过两位
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 65, in test_withdraw
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额小数超过两位' != '金额小数超过两位'
+- 余额小数超过两位
+? ^
++ 金额小数超过两位
+? ^
+
+2021-02-12 17:37:24,080 - [test_withdraw.py-->line:67] - ERROR: withdraw：提现金额-大于50万【失败】*****
+2021-02-12 17:37:24,081 - [test_withdraw.py-->line:68] - ERROR: '余额必须大于0并且小于或者等于5000000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于5000000
+? ^                    -
++ 金额必须大于0并且小于或者等于500000
+? ^
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\20210209gg\testcase\test_withdraw.py", line 65, in test_withdraw
+    self.assertEqual(res.json()['msg'], expected['msg'])
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 1233, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: '余额必须大于0并且小于或者等于5000000' != '金额必须大于0并且小于或者等于500000'
+- 余额必须大于0并且小于或者等于5000000
+? ^                    -
++ 金额必须大于0并且小于或者等于500000
+? ^
+
+2021-02-12 17:37:24,273 - [test_withdraw.py-->line:71] - INFO: withdraw：提现金额-非数字【通过】

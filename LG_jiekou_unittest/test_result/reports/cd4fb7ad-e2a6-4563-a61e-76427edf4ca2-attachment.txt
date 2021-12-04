@@ -1,0 +1,1 @@
+INFO     ligen:test_register.py:44 注册：密码17位通过！

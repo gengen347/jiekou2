@@ -1,0 +1,1 @@
+INFO     ligen:test_invest.py:47 invest：投资人正常投资【通过】
