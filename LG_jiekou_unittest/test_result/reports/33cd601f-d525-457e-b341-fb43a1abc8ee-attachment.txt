@@ -1,1 +1,0 @@
-INFO     ligen:test_withdraw.py:71 withdraw：提现金额-非数字【通过】

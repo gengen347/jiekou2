@@ -1,2 +1,0 @@
-{"code":2,"msg":"该标可投金额不足,可投金额：1700.0","data":null,"copyright":"Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved"}
-{"code":0,"msg":"OK"}

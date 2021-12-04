@@ -1,1 +1,0 @@
-INFO     ligen:test_withdraw.py:71 withdraw：会员id为小数【通过】

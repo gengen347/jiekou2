@@ -1,3 +1,0 @@
-{'code': 0, 'msg': 'OK', 'data': {'id': 314282, 'leave_amount': 497599.98, 'mobile_phone': '13557473150', 'reg_name': '投资人', 'reg_time': '2021-12-04 13:22:06.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2021-12-04 13:48:27', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjMxNDI4MiwiZXhwIjoxNjM4NTk2OTA3fQ.3UPg_5BWL9l28YzJyIkMt5QTRFyijzXT7mSAt4tSHYKUTTb2Zfpj4qqXWBFmwXqm72cnQhwcvGU9XUcG_1E6Sg'}}, 'copyright': 'Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved'}
-{"code":1007,"msg":"无权限访问，请检查参数","data":null,"copyright":"Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved"}
-{"code":1007,"msg":"无权限访问，请检查参数"}

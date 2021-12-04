@@ -1,1 +1,0 @@
-INFO     ligen:test_add.py:54 add：加标失败—标题为空【通过】

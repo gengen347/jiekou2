@@ -1,1 +1,0 @@
-INFO     ligen:test_audit.py:56 audit：参数approved_or_not为空【通过】

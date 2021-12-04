@@ -1,1 +1,0 @@
-INFO     ligen:test_register.py:44 注册：手机号长度12位通过！

@@ -1,2 +1,0 @@
-实际结果：{'code': 1, 'msg': '密码为空', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved'}
-预期结果：{'code': 1, 'msg': '密码为空'}

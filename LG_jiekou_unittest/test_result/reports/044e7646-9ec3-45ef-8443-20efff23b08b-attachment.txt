@@ -1,1 +1,0 @@
-INFO     ligen:test_recharge.py:65 recharge：不输入id【通过】

@@ -1,1 +1,0 @@
-INFO     ligen:test_invest.py:47 invest：投资人id为空【通过】

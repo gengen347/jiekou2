@@ -1,1 +1,0 @@
-[{'id': 314313, 'reg_name': '小柠檬', 'pwd': '25D55AD283AA400AF464C76D713C07AD', 'mobile_phone': '13590048638', 'type': 1, 'leave_amount': Decimal('0.00'), 'reg_time': datetime.datetime(2021, 12, 4, 13, 52, 53)}]
