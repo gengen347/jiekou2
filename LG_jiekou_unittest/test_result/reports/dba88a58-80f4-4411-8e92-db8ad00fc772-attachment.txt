@@ -1,0 +1,1 @@
+INFO     ligen:test_login.py:35 手机号未注册【通过】

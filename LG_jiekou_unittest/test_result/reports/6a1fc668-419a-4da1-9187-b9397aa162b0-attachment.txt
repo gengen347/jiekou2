@@ -1,0 +1,1 @@
+INFO     ligen:test_invest.py:47 invest：投资金额为空【通过】

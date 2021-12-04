@@ -1,0 +1,1 @@
+INFO     ligen:test_login.py:35 密码错误【通过】

@@ -1,0 +1,1 @@
+INFO     ligen:test_recharge.py:65 recharge：充值成功-金额为小数【通过】

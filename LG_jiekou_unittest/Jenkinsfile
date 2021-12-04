@@ -1,0 +1,30 @@
+pipeline {
+    agent {
+        docker {
+            image 'pytest_zb'
+        }
+    }
+    stages {
+        //构建
+        stage('build') {
+            steps{
+                sh 'python run_allure.py'
+            }
+        }
+    }
+    //构建后操作
+    post {
+        always{
+            script{
+                allure includeProperties: false, jdk: '', report: 'allure_report', results: [[path: 'reports']]
+            }
+        }
+        success{
+             emailext (
+                subject: '${ENV, var="JOB_NAME"}-第${BUILD_NUMBER}次构建日志',
+                body: '${FILE, path="email.html"}',
+                to: 'zhangbing11@360.cn'
+            )
+        }
+    }
+}

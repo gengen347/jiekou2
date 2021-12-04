@@ -1,0 +1,1 @@
+INFO     ligen:test_withdraw.py:71 withdraw：会员id为空【通过】

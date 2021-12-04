@@ -1,0 +1,1 @@
+INFO     ligen:test_withdraw.py:71 withdraw：提现成功-2位小数【通过】

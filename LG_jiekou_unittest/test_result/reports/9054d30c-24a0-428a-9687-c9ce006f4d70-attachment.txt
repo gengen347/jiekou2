@@ -1,0 +1,1 @@
+INFO     ligen:test_register.py:44 注册：不输入手机号通过！

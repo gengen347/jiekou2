@@ -1,0 +1,2 @@
+实际结果：{'code': 2, 'msg': '无效的手机格式', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2019 湖南省零檬信息技术有限公司 All Rights Reserved'}
+预期结果：{'code': 2, 'msg': '无效的手机格式'}

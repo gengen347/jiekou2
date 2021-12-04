@@ -1,0 +1,1 @@
+INFO     ligen:test_login.py:35 登录成功【通过】

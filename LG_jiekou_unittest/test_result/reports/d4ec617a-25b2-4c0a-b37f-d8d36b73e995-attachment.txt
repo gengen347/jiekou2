@@ -1,0 +1,1 @@
+INFO     ligen:test_register.py:44 注册：类型输入非0，1内容通过！

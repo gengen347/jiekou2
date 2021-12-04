@@ -1,0 +1,1 @@
+INFO     ligen:test_recharge.py:65 recharge：id错误(不是当前用的id)【通过】
